@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Founder Of ZeroSec & ZeroNetz</p>
+<p align="center">Founder Of Zero Nex</p>
 
 ###
 
