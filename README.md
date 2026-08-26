@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Founder Of Zero Nex</p>
+<p align="center">Cybersecurity Engineer & Founder Of Zero Nex</p>
 
 ###
 
