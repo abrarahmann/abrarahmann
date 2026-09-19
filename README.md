@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Im Richard</h1>
+<h1 align="center">Hey, Im Abrar</h1>
 
 ###
 
@@ -7,10 +7,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
