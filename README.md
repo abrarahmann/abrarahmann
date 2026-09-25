@@ -8,8 +8,10 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
+  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/thedogecraft/thedogecraft/output/snake.svg" alt="Snake animation" />
