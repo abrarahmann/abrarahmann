@@ -1,8 +1,8 @@
-<h1 align="center">Hey, Im Abrar</h1>
+<h1 align="center">Hey there </h1>
 
 ###
 
-<p align="center">Cybersecurity Engineer</p>
+<p align="center">Cybersecurity | Development | Research</p>
 
 ###
 
