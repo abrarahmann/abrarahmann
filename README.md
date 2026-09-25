@@ -20,10 +20,7 @@
   <img src="https://count.getloli.com/@:thedogecraft?theme=moebooru&padding=5&offset=3&scale=1.2&align=bottom&pixelated=1&darkmode=0"  />
 </div>
 
-<div align="center">
-  <a href="https://discord.gg/ygYnJ9Ppxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-  </a>
+
 
 ![.](https://komarev.com/ghpvc/?username=abrarahmann&style=flat)
   
